@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a testing intro",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
